@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is the 3D QR code model made of sand, inside a vertical glass ant farm.
+<Video 1> is the target video: the static front view of a vertical glass ant farm with the sandstone QR wall inside it, centered on a wood background.
+
+summary:
+[reference generation] The target video is a static, photorealistic, straight-on front view of a vertical glass ant farm with the sandstone QR wall inside it, centered on a wood background; the sand inside the glass forms the same 3D QR code model as <Picture 1> with the same geometry and module layout preserved exactly, its surfaces are grainy matte sand, and there is no viewport, no grid, and no camera movement.
+
+retention_analysis:
+- The model's geometry, module layout, and block structure of <Picture 1>: retained (model_geometry), same positions and sizes, facing straight toward the camera.
+- The matte faces of the model in <Picture 1> become faces of grainy matte sand: changed (sand_material), same positions and sizes.
+- The viewport, grid floor, and camera angle of <Picture 1>: removed.
+- The vertical glass ant farm containing the sand model: added (glass_antfarm).
+- The wood background: added (wood_background).
+
+detailed_description:
+The target video is a photorealistic studio shot: a wood background filling the entire frame edge to edge, with soft even studio lighting. The vertical glass ant farm stands centered in the frame: a shallow clear acrylic box, thin from front to back with visible thin edges, seen straight from the front.
+
+Inside the glass, the sand forms <Subject 1>: the same 3D QR code model as in <Picture 1>, with exactly the same geometry, position, and module layout, facing the camera straight on; the box has the same depth as the sandstone blocks: the box interior is empty — there is no loose sand, sand pile, or sand dust anywhere inside the box, the only sand in the box is the sandstone blocks — the front faces of the blocks touch the front wall, the rear faces touch the rear wall, and the holes between the blocks are open, showing the wood background behind the box through them; the front face of the model is the full QR pattern, and every face of the model is grainy matte sand. The glass has faint, subtle reflections only.
+
+The camera holds a static front view, exactly perpendicular and square to the front face of the model, at the height of its center, with a slight wide-angle depth so the model's thickness reads as 3D.
+
+The model is photorealistic sand: grainy matte faces, clean sharp edges.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the 3D QR code model on the 3D grid inside the Blender viewport, module layout identical to <Picture 1>.
+<Video 1> is the target video: the static low, head-on view of the 3D model, perfectly centered, in the Blender viewport.
+
+summary:
+[reference generation] The target video is a static, photorealistic view of the dark 3D viewport of the 3D application Blender, in which <Subject 1> is a matte 3D model at the center of the 3D grid; the module layout of <Picture 1> is preserved exactly module for module, with no camera movement.
+
+retention_analysis:
+- The module positions of <Picture 1> become raised matte 3D blocks on the grid plane: retained (raised_3d_module_blocks), same positions and sizes, nearest.
+- The blank areas of <Picture 1> remain the flat grid floor: retained (flat_grid_floor), slightly farther than the block plane.
+
+detailed_description:
+The target video is a photorealistic view of the Blender 3D application's viewport: a dark uniform charcoal background behind, a flat 3D grid of thin dark lines on the floor, soft even lighting. The camera is exactly on the central axis of the model, straight in front of its center with no left or right offset, at a low height with only a slight downward tilt; the model is perfectly centered in the frame with equal margins on all four sides and fills most of the frame, the grid floor visible behind it; the model is the only object in the viewport, with no UI panels, text, or overlays anywhere.
+
+[Shot 1] On the 3D grid is <Subject 1>: a 3D QR model identical to <Picture 1> in module layout, with the three finder pattern squares at the top-left, top-right, and bottom-left each formed as a raised ring of blocks, a flat ring of floor, and a raised center square, the small alignment square at the lower right raised, and the scattered data modules raised. Every module position of <Picture 1> becomes a raised rectangular prism block of matte light gray material, with a smooth flat top face and clean sharp edges, at the same position and size; every blank area of <Picture 1> is the flat grid floor. The top faces of all blocks form one single uniform plane slightly raised above the grid.
+
+The model is photorealistic: smooth matte light gray faces, clean sharp edges, no gloss.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A
